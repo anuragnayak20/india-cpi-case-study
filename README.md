@@ -4,7 +4,7 @@
 Analyzing India's CPI trends for various sectors and impact of global events like Covid 19 & global oil price fluctuations
 
 ## Source Data
-link : [text](https://github.com/anuragnayak20/india-cpi-case-study/blob/main/All_India_Index_Upto_April23%20(1).csv)
+link : [source dataset(uncleaned)](https://github.com/anuragnayak20/india-cpi-case-study/blob/main/All_India_Index_Upto_April23%20(1).csv)
 
 ## Analysis findings
 
