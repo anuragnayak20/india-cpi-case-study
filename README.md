@@ -18,8 +18,12 @@ link : [source dataset(uncleaned)](https://github.com/anuragnayak20/india-cpi-ca
 
 ## Dashboard
 ![ Most contributing category for the last month](image.png)
+
 ![YoY trend of CPI(Rural + Urban) & reason behind any spike](image-1.png)
+
 ![12 month trend analysis of food inflation with absolute changes and causes](image-2.png)
+
 ![Trend analysis of Covid 19 impact on CPI](image-3.png)
+
 ![Impact of imported oil price and global price fluctuations](image-4.png)
 
