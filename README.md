@@ -17,6 +17,9 @@ link : [source dataset(uncleaned)](https://github.com/anuragnayak20/india-cpi-ca
 | Impact of imported oil price and global price fluctuations | Fuel,Transport,Education,Recreation & Miscellaneous affected most |
 
 ## Dashboard
+
+link : [dashboard excel file](https://github.com/anuragnayak20/india-cpi-case-study/blob/main/india_cpi_analysis.xlsx)
+
 ![ Most contributing category for the last month](image.png)
 
 ![YoY trend of CPI(Rural + Urban) & reason behind any spike](image-1.png)
