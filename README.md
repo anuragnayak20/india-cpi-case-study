@@ -20,13 +20,34 @@ link : [source dataset(uncleaned)](https://github.com/anuragnayak20/india-cpi-ca
 
 link : [dashboard excel file](https://github.com/anuragnayak20/india-cpi-case-study/blob/main/india_cpi_analysis.xlsx)
 
-![ Most contributing category for the last month](image.png)
+### Rural, Urban, Rural + Urban analysis of last month inflation
 
-![YoY trend of CPI(Rural + Urban) & reason behind any spike](image-1.png)
+![Rural latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\R_LatestMonthContribution.png)
 
-![12 month trend analysis of food inflation with absolute changes and causes](image-2.png)
+![Urban latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\U_LatestMonthContribution.png)
 
-![Trend analysis of Covid 19 impact on CPI](image-3.png)
+![Rural + Urban latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\(R+U)LatestMonthContribution.png)
 
-![Impact of imported oil price and global price fluctuations](image-4.png)
+### YoY CPI(R+U)% Trend
 
+![YoY CPI(R+U) % trend](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\YoYCPI(R+U)%Trend.png)
+
+![Reason behind the CPI(R+U) trend](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\ReasonBehindYoYCPI(R+U)%.png)
+
+### MoM Food Bucket Inflation % and Absolute Changes
+
+![Food Inflation %](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthsFoodInflationPercentChanges.png)
+
+![Food Inflation Abs Change](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthsFoodInflationAbsoluteChanges.png)
+
+![Reason behind the spike in food inflation](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthBiggestContributer.png)
+
+### Covid Impact
+
+![Pre-Covid](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\preCovid.png)
+
+![Post-Covid](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\postCovid.png)
+
+### Imported Oil Price Fluctuations Impact
+
+![Oil Price Impact on Indian Inflation](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\oilprice_CPI.png)
