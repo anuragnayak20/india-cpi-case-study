@@ -31,9 +31,9 @@ link : [dashboard excel file](https://github.com/anuragnayak20/india-cpi-case-st
 
 ### YoY CPI(R+U)% Trend
 
-![YoY CPI(R+U) % trend](visuals/YoYCPI(R+U)%Trend.png)
+![YoY CPI(R+U) % trend](visuals/YoYCPI(R+U)_Trend.png)
 
-![Reason behind the CPI(R+U) trend](visuals/ReasonBehindYoYCPI(R+U)%.png)
+![Reason behind the CPI(R+U) trend](visuals/ReasonBehindYoYCPI(R+U)Trend.png)
 
 ### MoM Food Bucket Inflation % and Absolute Changes
 
