@@ -22,32 +22,32 @@ link : [dashboard excel file](https://github.com/anuragnayak20/india-cpi-case-st
 
 ### Rural, Urban, Rural + Urban analysis of last month inflation
 
-![Rural latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\R_LatestMonthContribution.png)
+![Rural latest month CPI distribution](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/R_LatestMonthContribution.png)
 
-![Urban latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\U_LatestMonthContribution.png)
+![Urban latest month CPI distribution](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/U_LatestMonthContribution.png)
 
-![Rural + Urban latest month CPI distribution](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\(R+U)LatestMonthContribution.png)
+![Rural + Urban latest month CPI distribution](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/(R+U)LatestMonthContribution.png)
 
 ### YoY CPI(R+U)% Trend
 
-![YoY CPI(R+U) % trend](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\YoYCPI(R+U)%Trend.png)
+![YoY CPI(R+U) % trend](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/YoYCPI(R+U)%Trend.png)
 
-![Reason behind the CPI(R+U) trend](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\ReasonBehindYoYCPI(R+U)%.png)
+![Reason behind the CPI(R+U) trend](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/ReasonBehindYoYCPI(R+U)%.png)
 
 ### MoM Food Bucket Inflation % and Absolute Changes
 
-![Food Inflation %](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthsFoodInflationPercentChanges.png)
+![Food Inflation %](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/last12monthsFoodInflationPercentChanges.png)
 
-![Food Inflation Abs Change](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthsFoodInflationAbsoluteChanges.png)
+![Food Inflation Abs Change](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/last12monthsFoodInflationAbsoluteChanges.png)
 
-![Reason behind the spike in food inflation](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\last12monthBiggestContributer.png)
+![Reason behind the spike in food inflation](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/last12monthBiggestContributer.png)
 
 ### Covid Impact
 
-![Pre-Covid](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\preCovid.png)
+![Pre-Covid](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/preCovid.png)
 
-![Post-Covid](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\postCovid.png)
+![Post-Covid](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/postCovid.png)
 
 ### Imported Oil Price Fluctuations Impact
 
-![Oil Price Impact on Indian Inflation](E:\DataAnalystCareer\GitRepoForDA\india-cpi-case-study\visuals\oilprice_CPI.png)
+![Oil Price Impact on Indian Inflation](E:/DataAnalystCareer/GitRepoForDA/india-cpi-case-study/visuals/oilprice_CPI.png)
